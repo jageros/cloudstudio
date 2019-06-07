@@ -1,0 +1,2 @@
+# blog
+my diy blog
